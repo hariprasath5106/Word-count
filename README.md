@@ -28,6 +28,7 @@ print('Number of words: ', num_word)
 ```
 ### OUTPUT:
 ![282809777-143c3ae5-8a47-41f7-b6db-bb206a9553cc](https://github.com/hariprasath5106/Word-count/assets/111515488/f64ea50d-ef52-4378-a983-8cae83836466)
+
 ![282809654-b3dbf776-df92-45d1-9867-524776bc7cf5](https://github.com/hariprasath5106/Word-count/assets/111515488/4438dedf-f941-452d-9094-ed73d3c29949)
 
 
